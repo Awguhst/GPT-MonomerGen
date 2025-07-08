@@ -1,4 +1,4 @@
-# MonomerGen
+## MonomerGen
 
 **Neural monomer generator. Not always wrong.**
 
